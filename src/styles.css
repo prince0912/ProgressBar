@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.progressbar {
+  display: flex;
+  position: absolute;
+  background: rgb(80, 64, 94);
+  color: white;
+}
